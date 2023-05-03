@@ -1,4 +1,4 @@
-# Computer-Deconstuction-Lab-Talks
+# Computer-Deconstruction-Lab-Talks
 Talks given at CDL- Computer Deconstruction Lab   www.compdecon.org   https://groups.io/g/cdl/topics 
 
 Intro to Linux is to help new users of Linux decide if they want to use it on their computer
