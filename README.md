@@ -6,3 +6,5 @@ Intro to Linux is to help new users of Linux decide if they want to use it on th
 A later talk will describe how to install common versions of Linux
 
 On May 15, 2023 I will give a talk on software radios for the hobbyist.  No math just what hardware and software is available for the hobbyist and my recommendation to get started.
+
+On Sept 11, 2023 I will be giving a talk on Introduction to Vacuum Tubes.
