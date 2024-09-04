@@ -12,3 +12,5 @@ On Sept 11, 2023 I will be giving a talk on Introduction to Vacuum Tubes.
 On Feb 12, 2024 I will be giving a talk on what came before the big bang
 
 On April 9, 2024 I planned a review of a talk "Our home the Milky Way GalaxY." I wanted comments from Pat W.  Everyone decided to sit in on the review so I gave the talk instead of just a review.
+
+On SEpt 9, I will give a tutorial on 3D printing
