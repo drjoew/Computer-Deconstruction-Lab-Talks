@@ -14,3 +14,5 @@ On Feb 12, 2024 I will be giving a talk on what came before the big bang
 On April 9, 2024 I planned a review of a talk "Our home the Milky Way GalaxY." I wanted comments from Pat W.  Everyone decided to sit in on the review so I gave the talk instead of just a review.
 
 On Sept 9, 2024 I will give a tutorial on 3D printing with CDL's new Bambu 3D printer
+
+On Sept 23, 2024 I will give a talk on RF Propagation
